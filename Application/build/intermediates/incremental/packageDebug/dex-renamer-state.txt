@@ -1,0 +1,7 @@
+#Thu Oct 26 14:32:45 IST 2017
+base.0=/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aaaa22618edece87e20a463911df491092b9922a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ac48059bc4d8e819d29b2a165350032e773ffa64/classes.dex
+base.1=/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ac48059bc4d8e819d29b2a165350032e773ffa64
+file.0=/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aaaa22618edece87e20a463911df491092b9922a/classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aaaa22618edece87e20a463911df491092b9922a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9245d9245971b4fbe7c5d0e91717c5418b324d19">
+        <dex dex="/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ac48059bc4d8e819d29b2a165350032e773ffa64/classes.dex" />
+    </item>
+
+</items>

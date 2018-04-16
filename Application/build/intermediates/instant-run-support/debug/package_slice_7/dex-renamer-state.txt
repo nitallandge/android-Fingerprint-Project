@@ -1,0 +1,4 @@
+#Thu Mar 01 15:55:46 IST 2018
+base.0=/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/transforms/dexMerger/debug/26
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nital/.android/build-cache/2126fa2905fe7976d198a93f9651585a91c71eb2/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nital/.android/build-cache/2126fa2905fe7976d198a93f9651585a91c71eb2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nital/.android/build-cache/2126fa2905fe7976d198a93f9651585a91c71eb2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nital/AndroidStudioProjects/android-FingerprintDialog-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/nital/.android/build-cache/2126fa2905fe7976d198a93f9651585a91c71eb2/output/res/layout-v21/notification_action.xml"
+    }
+]
